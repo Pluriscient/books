@@ -1,5 +1,7 @@
 {
-    // TURN OFF AUTOCOMPLETION
-    // Controls if quick suggestions should show up or not while typing
-    "editor.quickSuggestions": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    }
 }
