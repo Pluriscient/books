@@ -21,3 +21,4 @@ One way I want to try out is to create puzzles in Minecraft with increasing logi
 - I should do the abstract design on paper
 - Let Oscar fo most of the implementations
 - Perhaps use escape-room like puzzles, with some form of reward
+    - Should make a level generator that gets given a logic puzzle in a form that's used for R&L

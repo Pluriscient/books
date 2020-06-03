@@ -3,5 +3,6 @@
         "other": false,
         "comments": false,
         "strings": false
-    }
+    },
+    "latex-workshop.latex.autoClean.run": "onBuilt"
 }
