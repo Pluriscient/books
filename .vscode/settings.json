@@ -4,5 +4,9 @@
         "comments": false,
         "strings": false
     },
-    "latex-workshop.latex.autoClean.run": "onBuilt"
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "editor.acceptSuggestionOnEnter": "off",
+    "tabnine.disable_file_regex": [
+     "*.tex"
+    ]
 }
