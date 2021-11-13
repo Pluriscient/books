@@ -1,3 +1,8 @@
++++
+Title="Algorithms to Live by"
+
++++
+
 Algorithms to Live by (Brian Christian and Tom Griffiths)
 ---------------------------------------------------------
 

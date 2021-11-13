@@ -1,0 +1,3 @@
+baseURL = "https://github.io/pluriscient/books"
+languageCode = "en-us"
+title = "Books"

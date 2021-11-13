@@ -1,3 +1,8 @@
++++
+title = "Loserthink (Scott Adams)"
+
++++
+
 Loserthink (Scott Adams)
 ------------------------
 

@@ -1,3 +1,11 @@
++++
+title= "A better world"
+
++++
+
+
+# A better world
+
 Writing is more engaging to me than typing but I do not possess access to a notbeook atm so am consigned to cramping my hands on the plane.
 
 One of the major goals in my life, as it is in that of many others, is to improve the world. At first glance this is quite a naive goal, and I must admit that as of this moment, it is. For what is 'improving', and what is 'the world' in this outline?
