@@ -1,4 +1,4 @@
-baseurl: "https://github.io/pluriscient/books"
+baseurl: "https://pluriscient.github.io/books"
 title: My Books
 theme: ananke
 languageCode: en-us
