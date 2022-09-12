@@ -2,7 +2,7 @@ baseurl: "https://github.io/pluriscient/books"
 title: My Books
 theme: ananke
 languageCode: en-us
-copyright: My Name
+copyright: Pluriscient
 googleAnalytics: XXX
 disqusShortname: XXX
 pygmentsUseClasses: true
