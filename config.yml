@@ -1,6 +1,6 @@
 baseurl: "https://github.io/pluriscient/books"
 title: My Books
-theme: ghostwriter
+theme: ananke
 languageCode: en-us
 copyright: My Name
 googleAnalytics: XXX
